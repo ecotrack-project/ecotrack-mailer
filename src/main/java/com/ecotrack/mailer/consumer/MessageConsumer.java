@@ -1,8 +1,8 @@
-package com.urbemunda2.mailer.consumer;
+package com.ecotrack.mailer.consumer;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.urbemunda2.mailer.service.MailService;
-import com.urbemunda2.mailer.to.MailTO;
+import com.ecotrack.mailer.service.MailService;
+import com.ecotrack.mailer.to.MailTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.jms.core.JmsTemplate;

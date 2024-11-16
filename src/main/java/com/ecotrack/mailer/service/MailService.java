@@ -1,6 +1,6 @@
-package com.urbemunda2.mailer.service;
+package com.ecotrack.mailer.service;
 
-import com.urbemunda2.mailer.to.MailTO;
+import com.ecotrack.mailer.to.MailTO;
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;
 import org.springframework.beans.factory.annotation.Autowired;

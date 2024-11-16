@@ -1,4 +1,4 @@
-package com.urbemunda2.mailer.to;
+package com.ecotrack.mailer.to;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

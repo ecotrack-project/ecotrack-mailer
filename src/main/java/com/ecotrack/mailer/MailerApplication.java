@@ -1,4 +1,4 @@
-package com.urbemunda2.mailer;
+package com.ecotrack.mailer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
