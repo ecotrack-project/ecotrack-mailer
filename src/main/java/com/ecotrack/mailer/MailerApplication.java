@@ -9,7 +9,10 @@ import org.springframework.jms.annotation.EnableJms;
 public class MailerApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MailerApplication.class, args);
+		System.out.println("Mailer started...");
+
 	}
 
 }
